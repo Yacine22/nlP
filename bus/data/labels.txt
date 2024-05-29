@@ -1,0 +1,585 @@
+acapes 2.wav	Acapes
+noisy_acapes 2.wav	Acapes
+shifted_acapes 2.wav	Acapes
+pitched_acapes 2.wav	Acapes
+amplified_acapes 2.wav	Acapes
+Acapes.wav	Acapes
+noisy_Acapes.wav	Acapes
+shifted_Acapes.wav	Acapes
+pitched_Acapes.wav	Acapes
+amplified_Acapes.wav	Acapes
+Albert sarraut.wav	Albert sarraut
+noisy_Albert sarraut.wav	Albert sarraut
+shifted_Albert sarraut.wav	Albert sarraut
+pitched_Albert sarraut.wav	Albert sarraut
+amplified_Albert sarraut.wav	Albert sarraut
+Allées ababcar sy.wav	Allées ababcar sy
+noisy_Allées ababcar sy.wav	Allées ababcar sy
+shifted_Allées ababcar sy.wav	Allées ababcar sy
+pitched_Allées ababcar sy.wav	Allées ababcar sy
+amplified_Allées ababcar sy.wav	Allées ababcar sy
+Allées papa gueye fall.wav	Allées papa gueye fall
+noisy_Allées papa gueye fall.wav	Allées papa gueye fall
+shifted_Allées papa gueye fall.wav	Allées papa gueye fall
+pitched_Allées papa gueye fall.wav	Allées papa gueye fall
+amplified_Allées papa gueye fall.wav	Allées papa gueye fall
+Arsanel.wav	Arsanel
+noisy_Arsanel.wav	Arsanel
+shifted_Arsanel.wav	Arsanel
+pitched_Arsanel.wav	Arsanel
+amplified_Arsanel.wav	Arsanel
+Av bourguiba.wav	Avenue bourguiba
+noisy_Av bourguiba.wav	Avenue bourguiba
+shifted_Av bourguiba.wav	Avenue bourguiba
+pitched_Av bourguiba.wav	Avenue bourguiba
+amplified_Av bourguiba.wav	Avenue bourguiba
+Avenue André paytavin.wav	Avenue André paytavin
+noisy_Avenue André paytavin.wav	Avenue André paytavin
+shifted_Avenue André paytavin.wav	Avenue André paytavin
+pitched_Avenue André paytavin.wav	Avenue André paytavin
+amplified_Avenue André paytavin.wav	Avenue André paytavin
+Avenue bourguiba.wav	Avenue bourguiba
+noisy_Avenue bourguiba.wav	Avenue bourguiba
+shifted_Avenue bourguiba.wav	Avenue bourguiba
+pitched_Avenue bourguiba.wav	Avenue bourguiba
+amplified_Avenue bourguiba.wav	Avenue bourguiba
+Avenue cheikh ahmadou bamba.wav	Avenue cheikh ahmadou bamba
+noisy_Avenue cheikh ahmadou bamba.wav	Avenue cheikh ahmadou bamba
+shifted_Avenue cheikh ahmadou bamba.wav	Avenue cheikh ahmadou bamba
+pitched_Avenue cheikh ahmadou bamba.wav	Avenue cheikh ahmadou bamba
+amplified_Avenue cheikh ahmadou bamba.wav	Avenue cheikh ahmadou bamba
+Avenue cheikh anta diop.wav	Avenue cheikh anta diop
+noisy_Avenue cheikh anta diop.wav	Avenue cheikh anta diop
+shifted_Avenue cheikh anta diop.wav	Avenue cheikh anta diop
+pitched_Avenue cheikh anta diop.wav	Avenue cheikh anta diop
+amplified_Avenue cheikh anta diop.wav	Avenue cheikh anta diop
+Avenue faidherbe.wav	Avenue faidherbe
+noisy_Avenue faidherbe.wav	Avenue faidherbe
+shifted_Avenue faidherbe.wav	Avenue faidherbe
+pitched_Avenue faidherbe.wav	Avenue faidherbe
+amplified_Avenue faidherbe.wav	Avenue faidherbe
+Avenue George pompidou-1.wav	Avenue George pompidou-1
+noisy_Avenue George pompidou-1.wav	Avenue George pompidou-1
+shifted_Avenue George pompidou-1.wav	Avenue George pompidou-1
+pitched_Avenue George pompidou-1.wav	Avenue George pompidou-1
+amplified_Avenue George pompidou-1.wav	Avenue George pompidou-1
+Avenue leopold sédar senghor-3.wav	Avenue leopold sédar senghor-3
+noisy_Avenue leopold sédar senghor-3.wav	Avenue leopold sédar senghor-3
+shifted_Avenue leopold sédar senghor-3.wav	Avenue leopold sédar senghor-3
+pitched_Avenue leopold sédar senghor-3.wav	Avenue leopold sédar senghor-3
+amplified_Avenue leopold sédar senghor-3.wav	Avenue leopold sédar senghor-3
+BCEAO.wav	BCEAO
+noisy_BCEAO.wav	BCEAO
+shifted_BCEAO.wav	BCEAO
+pitched_BCEAO.wav	BCEAO
+amplified_BCEAO.wav	BCEAO
+Bel air.wav	Bel air
+noisy_Bel air.wav	Bel air
+shifted_Bel air.wav	Bel air
+pitched_Bel air.wav	Bel air
+amplified_Bel air.wav	Bel air
+Bld de la république.wav	Bld de la république
+noisy_Bld de la république.wav	Bld de la république
+shifted_Bld de la république.wav	Bld de la république
+pitched_Bld de la république.wav	Bld de la république
+amplified_Bld de la république.wav	Bld de la république
+BOP.wav	BOP
+noisy_BOP.wav	BOP
+shifted_BOP.wav	BOP
+pitched_BOP.wav	BOP
+amplified_BOP.wav	BOP
+Boulangerie jaune.wav	Boulangerie jaune
+noisy_Boulangerie jaune.wav	Boulangerie jaune
+shifted_Boulangerie jaune.wav	Boulangerie jaune
+pitched_Boulangerie jaune.wav	Boulangerie jaune
+amplified_Boulangerie jaune.wav	Boulangerie jaune
+Boulevard de l'arsenal.wav	Boulevard de l'arsenal
+noisy_Boulevard de l'arsenal.wav	Boulevard de l'arsenal
+shifted_Boulevard de l'arsenal.wav	Boulevard de l'arsenal
+pitched_Boulevard de l'arsenal.wav	Boulevard de l'arsenal
+amplified_Boulevard de l'arsenal.wav	Boulevard de l'arsenal
+Boulevard de la république.wav	Boulevard de la république
+noisy_Boulevard de la république.wav	Boulevard de la république
+shifted_Boulevard de la république.wav	Boulevard de la république
+pitched_Boulevard de la république.wav	Boulevard de la république
+amplified_Boulevard de la république.wav	Boulevard de la république
+Boulevard général de gaule.wav	Boulevard général de gaule
+noisy_Boulevard général de gaule.wav	Boulevard général de gaule
+shifted_Boulevard général de gaule.wav	Boulevard général de gaule
+pitched_Boulevard général de gaule.wav	Boulevard général de gaule
+amplified_Boulevard général de gaule.wav	Boulevard général de gaule
+Camp pénal.wav	Camp pénal
+noisy_Camp pénal.wav	Camp pénal
+shifted_Camp pénal.wav	Camp pénal
+pitched_Camp pénal.wav	Camp pénal
+amplified_Camp pénal.wav	Camp pénal
+Canal 4.wav	Canal 4
+noisy_Canal 4.wav	Canal 4
+shifted_Canal 4.wav	Canal 4
+pitched_Canal 4.wav	Canal 4
+amplified_Canal 4.wav	Canal 4
+CEM Ousmane Socé Diop.wav	CEM Ousmane Socé Diop
+noisy_CEM Ousmane Socé Diop.wav	CEM Ousmane Socé Diop
+shifted_CEM Ousmane Socé Diop.wav	CEM Ousmane Socé Diop
+pitched_CEM Ousmane Socé Diop.wav	CEM Ousmane Socé Diop
+amplified_CEM Ousmane Socé Diop.wav	CEM Ousmane Socé Diop
+Centenaire.wav	Centenaire
+noisy_Centenaire.wav	Centenaire
+shifted_Centenaire.wav	Centenaire
+pitched_Centenaire.wav	Centenaire
+amplified_Centenaire.wav	Centenaire
+Centrale bel air.wav	Centrale bel air
+noisy_Centrale bel air.wav	Centrale bel air
+shifted_Centrale bel air.wav	Centrale bel air
+pitched_Centrale bel air.wav	Centrale bel air
+amplified_Centrale bel air.wav	Centrale bel air
+Cité derklé.wav	Cité derklé
+noisy_Cité derklé.wav	Cité derklé
+shifted_Cité derklé.wav	Cité derklé
+pitched_Cité derklé.wav	Cité derklé
+amplified_Cité derklé.wav	Cité derklé
+Cité des eaux.wav	Cité des eaux
+noisy_Cité des eaux.wav	Cité des eaux
+shifted_Cité des eaux.wav	Cité des eaux
+pitched_Cité des eaux.wav	Cité des eaux
+amplified_Cité des eaux.wav	Cité des eaux
+Cité marine.wav	Cité marine
+noisy_Cité marine.wav	Cité marine
+shifted_Cité marine.wav	Cité marine
+pitched_Cité marine.wav	Cité marine
+amplified_Cité marine.wav	Cité marine
+Cité port.wav	Cité port
+noisy_Cité port.wav	Cité port
+shifted_Cité port.wav	Cité port
+pitched_Cité port.wav	Cité port
+amplified_Cité port.wav	Cité port
+Collège sacré cœur.wav	Collège sacré cœur
+noisy_Collège sacré cœur.wav	Collège sacré cœur
+shifted_Collège sacré cœur.wav	Collège sacré cœur
+pitched_Collège sacré cœur.wav	Collège sacré cœur
+amplified_Collège sacré cœur.wav	Collège sacré cœur
+Colobane.wav	Colobane
+noisy_Colobane.wav	Colobane
+shifted_Colobane.wav	Colobane
+pitched_Colobane.wav	Colobane
+amplified_Colobane.wav	Colobane
+Corniche ouest.wav	Corniche ouest
+noisy_Corniche ouest.wav	Corniche ouest
+shifted_Corniche ouest.wav	Corniche ouest
+pitched_Corniche ouest.wav	Corniche ouest
+amplified_Corniche ouest.wav	Corniche ouest
+Croisement 22.wav	Croisement 22
+noisy_Croisement 22.wav	Croisement 22
+shifted_Croisement 22.wav	Croisement 22
+pitched_Croisement 22.wav	Croisement 22
+amplified_Croisement 22.wav	Croisement 22
+CSS.wav	CSS
+noisy_CSS.wav	CSS
+shifted_CSS.wav	CSS
+pitched_CSS.wav	CSS
+amplified_CSS.wav	CSS
+DAF.wav	DAF
+noisy_DAF.wav	DAF
+shifted_DAF.wav	DAF
+pitched_DAF.wav	DAF
+amplified_DAF.wav	DAF
+Dakar sacré cœur.wav	Dakar sacré cœur
+noisy_Dakar sacré cœur.wav	Dakar sacré cœur
+shifted_Dakar sacré cœur.wav	Dakar sacré cœur
+pitched_Dakar sacré cœur.wav	Dakar sacré cœur
+amplified_Dakar sacré cœur.wav	Dakar sacré cœur
+Diamalaye.wav	Diamalaye
+noisy_Diamalaye.wav	Diamalaye
+shifted_Diamalaye.wav	Diamalaye
+pitched_Diamalaye.wav	Diamalaye
+amplified_Diamalaye.wav	Diamalaye
+Difonce.wav	Difonce
+noisy_Difonce.wav	Difonce
+shifted_Difonce.wav	Difonce
+pitched_Difonce.wav	Difonce
+amplified_Difonce.wav	Difonce
+Dior.wav	Dior
+noisy_Dior.wav	Dior
+shifted_Dior.wav	Dior
+pitched_Dior.wav	Dior
+amplified_Dior.wav	Dior
+Dispensaire norade.wav	Dispensaire norade
+noisy_Dispensaire norade.wav	Dispensaire norade
+shifted_Dispensaire norade.wav	Dispensaire norade
+pitched_Dispensaire norade.wav	Dispensaire norade
+amplified_Dispensaire norade.wav	Dispensaire norade
+Esso port.wav	Esso port
+noisy_Esso port.wav	Esso port
+shifted_Esso port.wav	Esso port
+pitched_Esso port.wav	Esso port
+amplified_Esso port.wav	Esso port
+Front de terre.wav	Front de terre
+noisy_Front de terre.wav	Front de terre
+shifted_Front de terre.wav	Front de terre
+pitched_Front de terre.wav	Front de terre
+amplified_Front de terre.wav	Front de terre
+Gare de Dakar.wav	Gare de Dakar
+noisy_Gare de Dakar.wav	Gare de Dakar
+shifted_Gare de Dakar.wav	Gare de Dakar
+pitched_Gare de Dakar.wav	Gare de Dakar
+amplified_Gare de Dakar.wav	Gare de Dakar
+Gare TER.wav	Gare TER
+noisy_Gare TER.wav	Gare TER
+shifted_Gare TER.wav	Gare TER
+pitched_Gare TER.wav	Gare TER
+amplified_Gare TER.wav	Gare TER
+Grand moulin de dakar.wav	Grand moulin de dakar
+noisy_Grand moulin de dakar.wav	Grand moulin de dakar
+shifted_Grand moulin de dakar.wav	Grand moulin de dakar
+pitched_Grand moulin de dakar.wav	Grand moulin de dakar
+amplified_Grand moulin de dakar.wav	Grand moulin de dakar
+Grande mosquée.wav	Grande mosquée
+noisy_Grande mosquée.wav	Grande mosquée
+shifted_Grande mosquée.wav	Grande mosquée
+pitched_Grande mosquée.wav	Grande mosquée
+amplified_Grande mosquée.wav	Grande mosquée
+Gueule tapée.wav	Gueule tapée
+noisy_Gueule tapée.wav	Gueule tapée
+shifted_Gueule tapée.wav	Gueule tapée
+pitched_Gueule tapée.wav	Gueule tapée
+amplified_Gueule tapée.wav	Gueule tapée
+HLM fass.wav	HLM fass
+noisy_HLM fass.wav	HLM fass
+shifted_HLM fass.wav	HLM fass
+pitched_HLM fass.wav	HLM fass
+amplified_HLM fass.wav	HLM fass
+HLM grand medine.wav	HLM grand medine
+noisy_HLM grand medine.wav	HLM grand medine
+shifted_HLM grand medine.wav	HLM grand medine
+pitched_HLM grand medine.wav	HLM grand medine
+amplified_HLM grand medine.wav	HLM grand medine
+Hôpital mame abdou.wav	Hôpital mame abdou
+noisy_Hôpital mame abdou.wav	Hôpital mame abdou
+shifted_Hôpital mame abdou.wav	Hôpital mame abdou
+pitched_Hôpital mame abdou.wav	Hôpital mame abdou
+amplified_Hôpital mame abdou.wav	Hôpital mame abdou
+Hôpital principal.wav	Hôpital principal
+noisy_Hôpital principal.wav	Hôpital principal
+shifted_Hôpital principal.wav	Hôpital principal
+pitched_Hôpital principal.wav	Hôpital principal
+amplified_Hôpital principal.wav	Hôpital principal
+Hôtel terrou bi.wav	Hôtel terrou bi
+noisy_Hôtel terrou bi.wav	Hôtel terrou bi
+shifted_Hôtel terrou bi.wav	Hôtel terrou bi
+pitched_Hôtel terrou bi.wav	Hôtel terrou bi
+amplified_Hôtel terrou bi.wav	Hôtel terrou bi
+IFAN.wav	IFAN
+noisy_IFAN.wav	IFAN
+shifted_IFAN.wav	IFAN
+pitched_IFAN.wav	IFAN
+amplified_IFAN.wav	IFAN
+Institut Pasteur.wav	Institut Pasteur
+noisy_Institut Pasteur.wav	Institut Pasteur
+shifted_Institut Pasteur.wav	Institut Pasteur
+pitched_Institut Pasteur.wav	Institut Pasteur
+amplified_Institut Pasteur.wav	Institut Pasteur
+Jet d eau.wav	Jet d eau
+noisy_Jet d eau.wav	Jet d eau
+shifted_Jet d eau.wav	Jet d eau
+pitched_Jet d eau.wav	Jet d eau
+amplified_Jet d eau.wav	Jet d eau
+Khar yalla.wav	Khar yalla
+noisy_Khar yalla.wav	Khar yalla
+shifted_Khar yalla.wav	Khar yalla
+pitched_Khar yalla.wav	Khar yalla
+amplified_Khar yalla.wav	Khar yalla
+Lat dior.wav	Lat dior
+noisy_Lat dior.wav	Lat dior
+shifted_Lat dior.wav	Lat dior
+pitched_Lat dior.wav	Lat dior
+amplified_Lat dior.wav	Lat dior
+Lycée Blaise diagne.wav	Lycée Blaise diagne
+noisy_Lycée Blaise diagne.wav	Lycée Blaise diagne
+shifted_Lycée Blaise diagne.wav	Lycée Blaise diagne
+pitched_Lycée Blaise diagne.wav	Lycée Blaise diagne
+amplified_Lycée Blaise diagne.wav	Lycée Blaise diagne
+Lycée delafosse.wav	Lycée delafosse
+noisy_Lycée delafosse.wav	Lycée delafosse
+shifted_Lycée delafosse.wav	Lycée delafosse
+pitched_Lycée delafosse.wav	Lycée delafosse
+amplified_Lycée delafosse.wav	Lycée delafosse
+Lycée kennedy.wav	Lycée kennedy
+noisy_Lycée kennedy.wav	Lycée kennedy
+shifted_Lycée kennedy.wav	Lycée kennedy
+pitched_Lycée kennedy.wav	Lycée kennedy
+amplified_Lycée kennedy.wav	Lycée kennedy
+Mairie grand yoff.wav	Mairie grand yoff
+noisy_Mairie grand yoff.wav	Mairie grand yoff
+shifted_Mairie grand yoff.wav	Mairie grand yoff
+pitched_Mairie grand yoff.wav	Mairie grand yoff
+amplified_Mairie grand yoff.wav	Mairie grand yoff
+Marché HLM.wav	Marché HLM
+noisy_Marché HLM.wav	Marché HLM
+shifted_Marché HLM.wav	Marché HLM
+pitched_Marché HLM.wav	Marché HLM
+amplified_Marché HLM.wav	Marché HLM
+Masalikul djinane.wav	Masalikul djinane
+noisy_Masalikul djinane.wav	Masalikul djinane
+shifted_Masalikul djinane.wav	Masalikul djinane
+pitched_Masalikul djinane.wav	Masalikul djinane
+amplified_Masalikul djinane.wav	Masalikul djinane
+Ministère de la santé.wav	Ministère de la santé
+noisy_Ministère de la santé.wav	Ministère de la santé
+shifted_Ministère de la santé.wav	Ministère de la santé
+pitched_Ministère de la santé.wav	Ministère de la santé
+amplified_Ministère de la santé.wav	Ministère de la santé
+Mosquée seydou nourrou tall.wav	Mosquée seydou nourrou tall
+noisy_Mosquée seydou nourrou tall.wav	Mosquée seydou nourrou tall
+shifted_Mosquée seydou nourrou tall.wav	Mosquée seydou nourrou tall
+pitched_Mosquée seydou nourrou tall.wav	Mosquée seydou nourrou tall
+amplified_Mosquée seydou nourrou tall.wav	Mosquée seydou nourrou tall
+Médina.wav	Médina
+noisy_Médina.wav	Médina
+shifted_Médina.wav	Médina
+pitched_Médina.wav	Médina
+amplified_Médina.wav	Médina
+Ouagou ndiaye.wav	Ouagou ndiaye
+noisy_Ouagou ndiaye.wav	Ouagou ndiaye
+shifted_Ouagou ndiaye.wav	Ouagou ndiaye
+pitched_Ouagou ndiaye.wav	Ouagou ndiaye
+amplified_Ouagou ndiaye.wav	Ouagou ndiaye
+Pentola.wav	Pentola
+noisy_Pentola.wav	Pentola
+shifted_Pentola.wav	Pentola
+pitched_Pentola.wav	Pentola
+amplified_Pentola.wav	Pentola
+Petersen.wav	Petersen
+noisy_Petersen.wav	Petersen
+shifted_Petersen.wav	Petersen
+pitched_Petersen.wav	Petersen
+amplified_Petersen.wav	Petersen
+Place Bakou.wav	Place Bakou
+noisy_Place Bakou.wav	Place Bakou
+shifted_Place Bakou.wav	Place Bakou
+pitched_Place Bakou.wav	Place Bakou
+amplified_Place Bakou.wav	Place Bakou
+Place de l'indépendance.wav	Place de l'indépendance
+noisy_Place de l'indépendance.wav	Place de l'indépendance
+shifted_Place de l'indépendance.wav	Place de l'indépendance
+pitched_Place de l'indépendance.wav	Place de l'indépendance
+amplified_Place de l'indépendance.wav	Place de l'indépendance
+Place ONU.wav	Place ONU
+noisy_Place ONU.wav	Place ONU
+shifted_Place ONU.wav	Place ONU
+pitched_Place ONU.wav	Place ONU
+amplified_Place ONU.wav	Place ONU
+Police bel air.wav	Police bel air
+noisy_Police bel air.wav	Police bel air
+shifted_Police bel air.wav	Police bel air
+pitched_Police bel air.wav	Police bel air
+amplified_Police bel air.wav	Police bel air
+Police parcelles.wav	Police parcelles
+noisy_Police parcelles.wav	Police parcelles
+shifted_Police parcelles.wav	Police parcelles
+pitched_Police parcelles.wav	Police parcelles
+amplified_Police parcelles.wav	Police parcelles
+Pont émergent.wav	Pont émergent
+noisy_Pont émergent.wav	Pont émergent
+shifted_Pont émergent.wav	Pont émergent
+pitched_Pont émergent.wav	Pont émergent
+amplified_Pont émergent.wav	Pont émergent
+Poste fann.wav	Poste fann
+noisy_Poste fann.wav	Poste fann
+shifted_Poste fann.wav	Poste fann
+pitched_Poste fann.wav	Poste fann
+amplified_Poste fann.wav	Poste fann
+Poste médina.wav	Poste médina
+noisy_Poste médina.wav	Poste médina
+shifted_Poste médina.wav	Poste médina
+pitched_Poste médina.wav	Poste médina
+amplified_Poste médina.wav	Poste médina
+Prison rebeuss.wav	Prison rebeuss
+noisy_Prison rebeuss.wav	Prison rebeuss
+shifted_Prison rebeuss.wav	Prison rebeuss
+pitched_Prison rebeuss.wav	Prison rebeuss
+amplified_Prison rebeuss.wav	Prison rebeuss
+Reubeuss.wav	Reubeuss
+noisy_Reubeuss.wav	Reubeuss
+shifted_Reubeuss.wav	Reubeuss
+pitched_Reubeuss.wav	Reubeuss
+amplified_Reubeuss.wav	Reubeuss
+Rond point assemblée nationale.wav	Rond point assemblée nationale
+noisy_Rond point assemblée nationale.wav	Rond point assemblée nationale
+shifted_Rond point assemblée nationale.wav	Rond point assemblée nationale
+pitched_Rond point assemblée nationale.wav	Rond point assemblée nationale
+amplified_Rond point assemblée nationale.wav	Rond point assemblée nationale
+Rond point jet d'eau.wav	Rond point jet d'eau
+noisy_Rond point jet d'eau.wav	Rond point jet d'eau
+shifted_Rond point jet d'eau.wav	Rond point jet d'eau
+pitched_Rond point jet d'eau.wav	Rond point jet d'eau
+amplified_Rond point jet d'eau.wav	Rond point jet d'eau
+Rond point JVC.wav	Rond point JVC
+noisy_Rond point JVC.wav	Rond point JVC
+shifted_Rond point JVC.wav	Rond point JVC
+pitched_Rond point JVC.wav	Rond point JVC
+amplified_Rond point JVC.wav	Rond point JVC
+Rond point liberté 6.wav	Rond point liberté 6
+noisy_Rond point liberté 6.wav	Rond point liberté 6
+shifted_Rond point liberté 6.wav	Rond point liberté 6
+pitched_Rond point liberté 6.wav	Rond point liberté 6
+amplified_Rond point liberté 6.wav	Rond point liberté 6
+Rond point sam.wav	Rond point sam
+noisy_Rond point sam.wav	Rond point sam
+shifted_Rond point sam.wav	Rond point sam
+pitched_Rond point sam.wav	Rond point sam
+amplified_Rond point sam.wav	Rond point sam
+Rond point sandaga.wav	Rond point sandaga
+noisy_Rond point sandaga.wav	Rond point sandaga
+shifted_Rond point sandaga.wav	Rond point sandaga
+pitched_Rond point sandaga.wav	Rond point sandaga
+amplified_Rond point sandaga.wav	Rond point sandaga
+Route de la corniche.wav	Route de la corniche
+noisy_Route de la corniche.wav	Route de la corniche
+shifted_Route de la corniche.wav	Route de la corniche
+pitched_Route de la corniche.wav	Route de la corniche
+amplified_Route de la corniche.wav	Route de la corniche
+RTS.wav	RTS
+noisy_RTS.wav	RTS
+shifted_RTS.wav	RTS
+pitched_RTS.wav	RTS
+amplified_RTS.wav	RTS
+Rue 22 prolongée.wav	Rue 22 prolongée
+noisy_Rue 22 prolongée.wav	Rue 22 prolongée
+shifted_Rue 22 prolongée.wav	Rue 22 prolongée
+pitched_Rue 22 prolongée.wav	Rue 22 prolongée
+amplified_Rue 22 prolongée.wav	Rue 22 prolongée
+Rue 6.wav	Rue 6
+noisy_Rue 6.wav	Rue 6
+shifted_Rue 6.wav	Rue 6
+pitched_Rue 6.wav	Rue 6
+amplified_Rue 6.wav	Rue 6
+Rue Aimé Césaire.wav	Rue Aimé Césaire
+noisy_Rue Aimé Césaire.wav	Rue Aimé Césaire
+shifted_Rue Aimé Césaire.wav	Rue Aimé Césaire
+pitched_Rue Aimé Césaire.wav	Rue Aimé Césaire
+amplified_Rue Aimé Césaire.wav	Rue Aimé Césaire
+Sandaga.wav	Sandaga
+noisy_Sandaga.wav	Sandaga
+shifted_Sandaga.wav	Sandaga
+pitched_Sandaga.wav	Sandaga
+amplified_Sandaga.wav	Sandaga
+Scor liberté.wav	Scor liberté
+noisy_Scor liberté.wav	Scor liberté
+shifted_Scor liberté.wav	Scor liberté
+pitched_Scor liberté.wav	Scor liberté
+amplified_Scor liberté.wav	Scor liberté
+SDE.wav	SDE
+noisy_SDE.wav	SDE
+shifted_SDE.wav	SDE
+pitched_SDE.wav	SDE
+amplified_SDE.wav	SDE
+Service des mines.wav	Service des mines
+noisy_Service des mines.wav	Service des mines
+shifted_Service des mines.wav	Service des mines
+pitched_Service des mines.wav	Service des mines
+amplified_Service des mines.wav	Service des mines
+Sicap rue 10.wav	Sicap rue 10
+noisy_Sicap rue 10.wav	Sicap rue 10
+shifted_Sicap rue 10.wav	Sicap rue 10
+pitched_Sicap rue 10.wav	Sicap rue 10
+amplified_Sicap rue 10.wav	Sicap rue 10
+Sorano.wav	Sorano
+noisy_Sorano.wav	Sorano
+shifted_Sorano.wav	Sorano
+pitched_Sorano.wav	Sorano
+amplified_Sorano.wav	Sorano
+Stade demba diop.wav	Stade demba diop
+noisy_Stade demba diop.wav	Stade demba diop
+shifted_Stade demba diop.wav	Stade demba diop
+pitched_Stade demba diop.wav	Stade demba diop
+amplified_Stade demba diop.wav	Stade demba diop
+Station castor.wav	Station castor
+noisy_Station castor.wav	Station castor
+shifted_Station castor.wav	Station castor
+pitched_Station castor.wav	Station castor
+amplified_Station castor.wav	Station castor
+Terminus dieuppeul.wav	Terminus dieuppeul
+noisy_Terminus dieuppeul.wav	Terminus dieuppeul
+shifted_Terminus dieuppeul.wav	Terminus dieuppeul
+pitched_Terminus dieuppeul.wav	Terminus dieuppeul
+amplified_Terminus dieuppeul.wav	Terminus dieuppeul
+Terminus leclerc.wav	Terminus leclerc
+noisy_Terminus leclerc.wav	Terminus leclerc
+shifted_Terminus leclerc.wav	Terminus leclerc
+pitched_Terminus leclerc.wav	Terminus leclerc
+amplified_Terminus leclerc.wav	Terminus leclerc
+Terminus liberté 5.wav	Terminus liberté 5
+noisy_Terminus liberté 5.wav	Terminus liberté 5
+shifted_Terminus liberté 5.wav	Terminus liberté 5
+pitched_Terminus liberté 5.wav	Terminus liberté 5
+amplified_Terminus liberté 5.wav	Terminus liberté 5
+Terminus palais 2.wav	Terminus palais 2
+noisy_Terminus palais 2.wav	Terminus palais 2
+shifted_Terminus palais 2.wav	Terminus palais 2
+pitched_Terminus palais 2.wav	Terminus palais 2
+amplified_Terminus palais 2.wav	Terminus palais 2
+Terminus parcelles.wav	Terminus parcelles
+noisy_Terminus parcelles.wav	Terminus parcelles
+shifted_Terminus parcelles.wav	Terminus parcelles
+pitched_Terminus parcelles.wav	Terminus parcelles
+amplified_Terminus parcelles.wav	Terminus parcelles
+Terminus scat urbam.wav	Terminus scat urbam
+noisy_Terminus scat urbam.wav	Terminus scat urbam
+shifted_Terminus scat urbam.wav	Terminus scat urbam
+pitched_Terminus scat urbam.wav	Terminus scat urbam
+amplified_Terminus scat urbam.wav	Terminus scat urbam
+Travaux communaux.wav	Travaux communaux
+noisy_Travaux communaux.wav	Travaux communaux
+shifted_Travaux communaux.wav	Travaux communaux
+pitched_Travaux communaux.wav	Travaux communaux
+amplified_Travaux communaux.wav	Travaux communaux
+Tribunal de Dakar.wav	Tribunal de Dakar
+noisy_Tribunal de Dakar.wav	Tribunal de Dakar
+shifted_Tribunal de Dakar.wav	Tribunal de Dakar
+pitched_Tribunal de Dakar.wav	Tribunal de Dakar
+amplified_Tribunal de Dakar.wav	Tribunal de Dakar
+Tunnel soumbédioune.wav	Tunnel soumbédioune
+noisy_Tunnel soumbédioune.wav	Tunnel soumbédioune
+shifted_Tunnel soumbédioune.wav	Tunnel soumbédioune
+pitched_Tunnel soumbédioune.wav	Tunnel soumbédioune
+amplified_Tunnel soumbédioune.wav	Tunnel soumbédioune
+Ucad.wav	Ucad
+noisy_Ucad.wav	Ucad
+shifted_Ucad.wav	Ucad
+pitched_Ucad.wav	Ucad
+amplified_Ucad.wav	Ucad
+Unité 11.wav	Unité 11
+noisy_Unité 11.wav	Unité 11
+shifted_Unité 11.wav	Unité 11
+pitched_Unité 11.wav	Unité 11
+amplified_Unité 11.wav	Unité 11
+Village artisanal de soumbedioune.wav	Village artisanal de soumbedioune
+noisy_Village artisanal de soumbedioune.wav	Village artisanal de soumbedioune
+shifted_Village artisanal de soumbedioune.wav	Village artisanal de soumbedioune
+pitched_Village artisanal de soumbedioune.wav	Village artisanal de soumbedioune
+amplified_Village artisanal de soumbedioune.wav	Village artisanal de soumbedioune
+École Dior.wav	École Dior
+noisy_École Dior.wav	École Dior
+shifted_École Dior.wav	École Dior
+pitched_École Dior.wav	École Dior
+amplified_École Dior.wav	École Dior
+École Hyacinthe Thiandoum.wav	École Hyacinthe Thiandoum
+noisy_École Hyacinthe Thiandoum.wav	École Hyacinthe Thiandoum
+shifted_École Hyacinthe Thiandoum.wav	École Hyacinthe Thiandoum
+pitched_École Hyacinthe Thiandoum.wav	École Hyacinthe Thiandoum
+amplified_École Hyacinthe Thiandoum.wav	École Hyacinthe Thiandoum
+École normale supérieure.wav	École normale supérieure
+noisy_École normale supérieure.wav	École normale supérieure
+shifted_École normale supérieure.wav	École normale supérieure
+pitched_École normale supérieure.wav	École normale supérieure
+amplified_École normale supérieure.wav	École normale supérieure
+École normale.wav	École normale
+noisy_École normale.wav	École normale
+shifted_École normale.wav	École normale
+pitched_École normale.wav	École normale
+amplified_École normale.wav	École normale
+Église martyrs de l'Ouganda.wav	Église martyrs de l'Ouganda
+noisy_Église martyrs de l'Ouganda.wav	Église martyrs de l'Ouganda
+shifted_Église martyrs de l'Ouganda.wav	Église martyrs de l'Ouganda
+pitched_Église martyrs de l'Ouganda.wav	Église martyrs de l'Ouganda
+amplified_Église martyrs de l'Ouganda.wav	Église martyrs de l'Ouganda
